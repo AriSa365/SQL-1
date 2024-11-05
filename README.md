@@ -1,6 +1,6 @@
 # SQL-1
 New-Wheels SQL Data Analysis
-
+![SQL-Intro-New Wheels](https://github.com/user-attachments/assets/87df8cac-6e1a-4535-bb63-db1e6d1375e4)
 ## ✤ Context:
 A lot of people in the world share a common desire: to own a vehicle. A car or an automobile is seen as an object that gives the freedom of mobility. Many now prefer pre-owned vehicles because they come at an affordable cost, but at the 
 same time, they are also concerned about whether the after-sales service provided by the resale vendors is as good as the care you may get from the actual manufacturers. New-Wheels, a vehicle resale company, has launched an app with an 
@@ -18,5 +18,8 @@ The data provided has:
 - Attributes on the customers, such as where they live and payment methods
 - Attributes on orders and shipments, such as when the order was shipped and received, what the after-sales feedback was, and so on.
 
-Relationship Diagram has been provided:
-https://github.com/AriSa365/SQL-1/blob/Data-Science/ER-Diagram.pdf
+A relationship Diagram has been provided: https://github.com/AriSa365/SQL-1/blob/Data-Science/ER-Diagram.pdf
+
+SQL Dump files: https://github.com/AriSa365/SQL-1/blob/Data-Science/new_wheels_project_dumpfile.sql
+
+The whole Project Can be obtained here: https://github.com/AriSa365/SQL-1/blob/Data-Science/SQL_Intro_Coded%20Project.pdf
